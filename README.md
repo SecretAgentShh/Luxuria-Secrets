@@ -7,3 +7,6 @@ Check out the [Wiki](https://github.com/SecretAgentShh/Luxuria-Secrets/wiki) for
 And remember Luxury is a privilege reserved for those who truly appreciate its beauty.
 
 Follow me [here]() to find answers.
+
+
+I acknowledge that ChatGPT has been used solely to refine through rewording as minimally as possible and verify the information presented here. It has been used as a learning tool to gain experience and not as a complete source of information. There has been lot of background research and courses taken to understand Data Analysis. The content is my own and has only been supplemented by the use of an AI tool.
